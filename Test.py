@@ -27,3 +27,9 @@ age=22
 Gender="xyz"
 height=170
 weight=90.58
+isTrue=True
+isFalse=False
+
+print(isTrue)
+print(isFalse)
+
