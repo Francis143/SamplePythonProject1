@@ -19,3 +19,11 @@ print(str[3:])
 # Slice the From End
 
 print(str[:8])
+
+##### DATA Type  ######
+
+name="Francis"
+age=22
+Gender="xyz"
+height=170
+weight=90.58
